@@ -17,11 +17,11 @@ Skills: **C#** / **Unity** / Python
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MR_Kotuk)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MR_Kotuk)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-Kotuk)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MR_Kotuk&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MR-Kotuk&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/MR_Kotuk)  
+![GitHub metrics](https://metrics.lecoq.io/MR-Kotuk)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=MR_Kotuk)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=MR-Kotuk)  
 
