@@ -19,7 +19,7 @@ src="https://img.shields.io/github/followers/MR-Kotuk?logo=github&style=for-the-
 
 
 <p align="left">
-ICON ICON
+https://www.python.org/ ICON
 </p>
 
 
