@@ -50,11 +50,6 @@ src="https://img.shields.io/github/followers/MR-Kotuk?logo=github&style=for-the-
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>
-
 ### Badges
 <a href="http://www.github.com/MR-Kotuk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-Kotuk&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
