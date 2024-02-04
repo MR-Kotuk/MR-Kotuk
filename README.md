@@ -12,9 +12,6 @@ I am a beginner game developer. Who also leads the Unsimple Pixel development te
 * 🧠  I'm learning Unity-C#
 * 🤝  I'm open to collaborating on Creation of games or other interesting work
 
-<a href="https://www.github.com/MR-Kotuk" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/MR-Kotuk?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 <div align="center">  
