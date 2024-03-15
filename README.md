@@ -8,7 +8,7 @@ I am a beginner game developer. Who also leads the Unsimple Pixel development te
 
 * 🖥️  See my portfolio at [Github](http://github.com/MR-Kotuk?tab=repositories)
 * ✉️  You can contact me at [mrkotuk333@gmail.com](mailto:mrkotuk333@gmail.com)
-* 🚀  I'm currently working on [Unsimple Pixel](https://unsimple-pixel.itch.io) and [Acten](https://yandex.ru/games/developer/57902)
+* 🚀  I'm currently working on [Unsimple Pixel](https://unsimple-pixel.itch.io)
 * 🧠  I'm learning Unity-C#
 * 🤝  I'm open to collaborating on Creation of games or other interesting work
 
