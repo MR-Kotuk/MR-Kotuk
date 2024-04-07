@@ -7,7 +7,7 @@ I am a Junior Unity Developer
 I am a beginner game developer. Who also leads the Unsimple Pixel development team
 
 * 🖥️  See my portfolio at [Github](http://github.com/MR-Kotuk?tab=repositories), and [Play Hop](https://t.ly/qul6m)
-* ✉️  You can contact me at [Mail](mailto:mrkotuk333@gmail.com), [Telegram](https://web.telegram.org/a/#1642872945), and [Discord](@mr_kotukkk)
+* ✉️  You can contact me at [Mail](mailto:mrkotuk333@gmail.com), [Telegram](https://web.telegram.org/a/#1642872945), and Discord: mr_kotukkk
 * 🚀  I'm currently working on [Unsimple Pixel](https://unsimple-pixel.itch.io)
 * 🧠  I'm learning Unity-C#
 * 🤝  I'm open to collaborating on Creation of games or other interesting work
