@@ -4,7 +4,7 @@ Hi 👋 My name is MR_Kotuk
 I am a Junior C# and Unity Developer
 -----------------------------
 
-I am a junior C# and Unity developer. Who also led and was a developer on the "Unsimple Pixel" game development team. Then I worked for half a year at the game development studio "ACTEN", managed to finish and release one game and halfway through making a second one, which is now in development. Now I'm working as an indie developer, learning more C#, and I want to finish the "Fight Field" project.
+I am a junior C# and Unity developer. Who also led and was a developer on the [Unsimple Pixel](https://unsimple-pixel.itch.io) game development team. Then I worked for half a year at the game development studio [ACTEN](https://playhop.com/developer/57902), managed to finish and release one game and halfway through making a second one, which is now in development. Now I'm working as an indie developer, learning more C#, and I want to finish the [Fight Field](https://github.com/MR-Kotuk/Fight-Field) project.
 
 * 🖥️  See my portfolio at [Github](http://github.com/MR-Kotuk?tab=repositories), my last released game [Cafe Simulator](https://t.ly/qul6m), and my team [Unsimple Pixel](https://unsimple-pixel.itch.io)
 * ✉️  You can contact me at [Mail](mailto:mrkotuk333@gmail.com), [Telegram](https://web.telegram.org/a/#1642872945), [Discord](mr_kotukkk), and [WhatsApp](https://wa.me/qr/RS63S2DDHXD4M1)
