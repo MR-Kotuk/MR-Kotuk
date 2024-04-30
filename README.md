@@ -34,9 +34,6 @@ I am a junior C# and Unity developer. Who also led and was a developer on the [U
 
 ### LeetCode
 <div align="center">
-  <a href="https://github.com/azl397920">
-    <img src="https://github-readme-stats.vercel.app/api?username=mr-kotuk&show_icons=true&theme=radical" alt="GitHub stats">
-  </a>
   <a href="https://leetcode.com/mr_kotukkk/">
     <img src="https://leetcode-stats.vercel.app/api/profile/mr_kotukkk" alt="LeetCode stats">
   </a>
