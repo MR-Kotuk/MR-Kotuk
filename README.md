@@ -33,10 +33,14 @@ I am a junior C# and Unity developer. Who also led and was a developer on the [U
 <br/>  
 
 ### LeetCode
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/mr_kotukkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mr_kotukkk" height="30" width="40" /></a>
-</p>
+## LeetCode Stats
+
+[![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=mr_kotukkk&theme=dark)](https://github.com/mr-kotukkk/leetcode-stats)
+
+- **Solved Problems**: ![Solved](https://leetcode-badge.vercel.app/api/mr_kotukkk?solutionCount=true)
+- **Easy Problems Solved**: ![Easy](https://leetcode-badge.vercel.app/api/mr_kotukkk?difficulty=Easy)
+- **Medium Problems Solved**: ![Medium](https://leetcode-badge.vercel.app/api/mr_kotukkk?difficulty=Medium)
+- **Hard Problems Solved**: ![Hard](https://leetcode-badge.vercel.app/api/mr_kotukkk?difficulty=Hard)
 
 ### Badges
 <a href="http://www.github.com/MR-Kotuk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-Kotuk&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
