@@ -33,11 +33,10 @@ I am a junior C# and Unity developer. Who also led and was a developer on the [U
 <br/>  
 
 ### LeetCode
-<div align="center">
-  <a href="https://leetcode.com/mr_kotukkk/">
-    <img src="https://leetcode-stats.vercel.app/api/profile/mr_kotukkk" alt="LeetCode stats">
-  </a>
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.leetcode.com/mr_kotukkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mr_kotukkk" height="30" width="40" /></a>
+</p>
 
 ### Badges
 <a href="http://www.github.com/MR-Kotuk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-Kotuk&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
