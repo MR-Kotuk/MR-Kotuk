@@ -36,7 +36,7 @@ I am a junior C# and Unity developer. Who also led and was a developer on the [U
 ## Badges
 
 ### LeetCode
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=MR_Kotukkk&theme=dark)](https://github.com/mr-kotuk/leetcode-stats)
+![Leetcode Stats](https://leetcard.jacoblin.cool/mr_kotukkk?ext=heatmap)
 
 ### Github
 <a href="http://www.github.com/MR-Kotuk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-Kotuk&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
