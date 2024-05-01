@@ -13,7 +13,7 @@ I am a junior C# and Unity developer. Who also led and was a developer on the [U
 * 🧠  I'm learning C# and Unity
 * 🤝  I'm open to collaborating on creation of games or C# projects other interesting work
 
-### Skills
+## Skills
 
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
