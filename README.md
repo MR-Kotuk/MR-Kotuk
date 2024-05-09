@@ -23,11 +23,7 @@ I am a junior C# and Unity developer. Who also led and was a developer on the [U
 
 </td><td valign="top" width="33%">
 
-
-
 </td><td valign="top" width="33%">
-
-
 
 </td></tr></table>  
 
