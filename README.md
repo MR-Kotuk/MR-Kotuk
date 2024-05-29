@@ -5,12 +5,12 @@ I am a Junior C# and Unity Developer
 -----------------------------
 
 ## About me
-I am a junior C# and Unity developer. Who also led and was a developer on the [Unsimple Pixel](https://unsimple-pixel.itch.io) game development team. Then I worked for half a year at the game development studio [ACTEN](https://playhop.com/developer/57902), managed to finish and release one game and halfway through making a second one, which is now in development. Now I'm working as an indie developer, learning more C#, and I want to finish the [Fight Field](https://github.com/MR-Kotuk/Fight-Field) project.
+I am a junior C# and Unity developer. Who also led and was a developer on the [Unsimple Pixel](https://unsimple-pixel.itch.io) game development team. Then I worked for half a year at the game development studio [ACTEN](https://playhop.com/developer/57902), managed to finish and release one game and halfway through making a second one. Now I'm working as an indie developer, learning more C#, and I want to finish the [Night Measurement](https://github.com/MR-Kotuk/Night-Measurement) project.
 
 * 🖥️  See my portfolio at [Github](http://github.com/MR-Kotuk?tab=repositories), my last released game [Cafe Simulator](https://t.ly/qul6m), and my team [Unsimple Pixel](https://unsimple-pixel.itch.io)
-* ✉️  You can contact me at [Mail](mailto:mrkotuk333@gmail.com), [Telegram](https://web.telegram.org/a/#1642872945), [Discord](mr_kotukkk), and [WhatsApp](https://wa.me/qr/RS63S2DDHXD4M1)
-* 🚀  I'm currently working as an indie developer and my current project is [Fight Field](https://github.com/MR-Kotuk/Fight-Field)
-* 🧠  I'm learning C# and Unity
+* ✉️  You can contact me at [Mail](mailto:mrkotuk333@gmail.com), [Telegram](https://web.telegram.org/a/#1642872945), [WhatsApp](https://wa.me/qr/RS63S2DDHXD4M1), and  Discord: mr_kotukkk
+* 🚀  I'm currently working as an indie developer and my current project is [Night Measurement](https://github.com/MR-Kotuk/Night-Measurement)
+* 🧠  I'm learning C#, Algorithms and Design Patterns
 * 🤝  I'm open to collaborating on creation of games or C# projects other interesting work
 
 ## Skills
