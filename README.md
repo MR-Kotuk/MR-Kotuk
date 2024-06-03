@@ -1,7 +1,7 @@
 Hi 👋 My name is MR_Kotuk
 ==========================
 
-I am a Junior C# and Unity Developer
+I am a Junior Software Engineer
 -----------------------------
 
 ## About me
