@@ -12,6 +12,7 @@ I am a junior C# and Unity developer. Who also led and was a developer on the [U
 * 🚀  I'm currently working as an indie developer and my current project is [Night Measurement](https://github.com/MR-Kotuk/Night-Measurement)
 * 🧠  I'm learning C#, Algorithms and Design Patterns
 * 🤝  I'm open to collaborating on creation of games or C# projects other interesting work
+* ☕  Give me [coffee/support with projects](https://www.donationalerts.com/r/mr_kotuk)
 
 ## Skills
 
