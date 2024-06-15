@@ -10,7 +10,7 @@ I am a junior software engineer. Who also led and was a developer on the [Unsimp
 * 🖥️  See my portfolio at [Github](http://github.com/MR-Kotuk?tab=repositories), my last released game [Cafe Simulator](https://t.ly/qul6m), and my team [Unsimple Pixel](https://unsimple-pixel.itch.io)
 * ✉️  You can contact me at [Mail](mailto:mrkotuk333@gmail.com), [Telegram](https://web.telegram.org/a/#1642872945), [Discord](discordapp.com/users/1080869727083184128) and [WhatsApp](https://wa.me/qr/RS63S2DDHXD4M1)
 * 🚀  I'm currently working as an indie developer and my current project is [Night Measurement](https://github.com/MR-Kotuk/Night-Measurement)
-* 🧠  I'm learning [Java](https://www.java.com/en/) and I know OOP, SOLID, Design Patterns and Algorithms
+* 🧠  I'm learning [Java](https://www.java.com/en/) and I know OOP, SOLID, [Design Patterns](https://github.com/MR-Kotuk/Design-Patterns) and [Algorithms](https://github.com/MR-Kotuk/Algorithms)
 * 🤝  I'm open to collaborating of all my skills
 * ☕  Give me [coffee/support with projects](https://www.donationalerts.com/r/mr_kotuk)
 
