@@ -32,6 +32,7 @@ I am a junior software engineer. Who also led and was a developer on the [Unsimp
 ![Leetcode Stats](https://leetcard.jacoblin.cool/mr_kotukkk?ext=heatmap)
 
 ### Github
-<a href="http://www.github.com/MR-Kotuk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-Kotuk&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/MR-Kotuk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-Kotuk&theme=tokyonight&hide_border=true" /></a>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-kotuk&theme=tokyonight&layout=compact&langs_count=8"/>
 <br/>
