@@ -34,5 +34,5 @@ I am a junior software engineer. Who also led and was a developer on the [Unsimp
 ### Github
 <a href="http://www.github.com/MR-Kotuk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-Kotuk&theme=tokyonight&hide_border=true" /></a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-kotuk&theme=tokyonight&layout=compact&langs_count=8"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-kotuk&hide=shaderlab,hlsl,glsl,c%2B%2B,objective-c%2B%2B,roff,gap,javascript&langs_count=4&theme=tokyonight&layout=compact&hide_progress=true&hide_border=true)
 <br/>
