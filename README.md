@@ -12,7 +12,6 @@ I am a junior software engineer. Who also led and was a developer on the [Unsimp
 * 🚀  I'm currently working as an indie developer and my current project is [Night Measurement](https://github.com/MR-Kotuk/Night-Measurement)
 * 🧠  I'm learning [Java](https://www.java.com/en/) + JDBC, Hibernate, JPA. Also I know OOP, SOLID, [Design Patterns](https://github.com/MR-Kotuk/Design-Patterns) and [Algorithms](https://github.com/MR-Kotuk/Algorithms)
 * 🤝  I'm open to collaborating of all my [skills](https://github.com/MR-Kotuk#skills)
-* ☕  Give me [coffee/support with projects](https://www.donationalerts.com/r/mr_kotuk)
 
 ## Skills
 
