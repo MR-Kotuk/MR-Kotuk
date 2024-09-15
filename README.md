@@ -10,15 +10,19 @@ I am a junior software engineer. Who also led and was a developer on the [Unsimp
 * 🖥️  See my portfolio at [Github](http://github.com/MR-Kotuk?tab=repositories), my last released game [Cafe Simulator](https://t.ly/qul6m), and my team [Unsimple Pixel](https://unsimple-pixel.itch.io)
 * ✉️  You can contact me at [Mail](mailto:mrkotuk333@gmail.com), [Telegram](https://web.telegram.org/a/#1642872945), [Discord](discordapp.com/users/1080869727083184128) and [WhatsApp](https://wa.me/qr/RS63S2DDHXD4M1)
 * 🚀  I'm currently working as an indie developer and my current project is [Night Measurement](https://github.com/MR-Kotuk/Night-Measurement)
-* 🧠  I'm learning [Java](https://www.java.com/en/) + JDBC, Hibernate, JPA, MySQL. Also I know OOP, SOLID, [Design Patterns](https://github.com/MR-Kotuk/Design-Patterns) and [Algorithms](https://github.com/MR-Kotuk/Algorithms)
+* 🧠  I'm learning [Java](https://www.java.com/en/) + JDBC, Hibernate, JPA, MySQL, Spring. Also I know OOP, SOLID, [Design Patterns](https://github.com/MR-Kotuk/Design-Patterns) and [Algorithms](https://github.com/MR-Kotuk/Algorithms)
 * 🤝  I'm open to collaborating of all my [skills](https://github.com/MR-Kotuk#skills)
 
 ## Skills
 
 <p align="middle">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="55" height="55"/>
-<img src="https://i.imghippo.com/files/uQIRW1725033569.png" alt="Hibernate" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
+<img src="https://i.imghippo.com/files/uQIRW1725033569.png" alt="Hibernate" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="55"/>
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
+</p>
+
+<p align="middle">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="55" height="55"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="55" height="55"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Engines/unity3d-icon.svg" alt="Unity" width="55" height="55"/>
