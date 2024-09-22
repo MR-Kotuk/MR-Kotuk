@@ -1,16 +1,16 @@
 Hi 👋 My name is MR_Kotuk
 ==========================
 
-I am a Junior Software Engineer
+I am a Junior Backend Developer
 -----------------------------
+### Java/Spring Boot/MySQL
 
 ## About me
-I am a junior software engineer. Who also led and was a developer on the [Unsimple Pixel](https://unsimple-pixel.itch.io) game development team. Then I worked for a half of year at the game development studio [ACTEN](https://playhop.com/developer/57902), managed to finish and release one game and halfway through making a second one. Now I'm working as an indie developer and learning more Backend
+I am a Junior Backend Developer. Who also led and was a developer on the [Unsimple Pixel](https://unsimple-pixel.itch.io) game development team. Then I worked for a half of year at the game development studio [ACTEN](https://playhop.com/developer/57902), managed to finish and release one game and halfway through making a second one. Now I'm working as an Junior Backend Developer
 
 * 🖥️  See my portfolio at [Github](http://github.com/MR-Kotuk?tab=repositories), my last released game [Cafe Simulator](https://t.ly/qul6m), and my team [Unsimple Pixel](https://unsimple-pixel.itch.io)
 * ✉️  You can contact me at [Mail](mailto:mrkotuk333@gmail.com), [Telegram](https://web.telegram.org/a/#1642872945), [Discord](discordapp.com/users/1080869727083184128) and [WhatsApp](https://wa.me/qr/RS63S2DDHXD4M1)
-* 🚀  I'm currently working as an indie developer and my current project is [Night Measurement](https://github.com/MR-Kotuk/Night-Measurement)
-* 🧠  I'm learning [Java](https://www.java.com/en/) + JDBC, Hibernate, JPA, MySQL, Spring. Also I know OOP, SOLID, [Design Patterns](https://github.com/MR-Kotuk/Design-Patterns) and [Algorithms](https://github.com/MR-Kotuk/Algorithms)
+* 🧠  I'm learning Backend. Also I know OOP, SOLID, [Design Patterns](https://github.com/MR-Kotuk/Design-Patterns) and [Algorithms](https://github.com/MR-Kotuk/Algorithms)
 * 🤝  I'm open to collaborating of all my [skills](https://github.com/MR-Kotuk#skills)
 
 ## Skills
