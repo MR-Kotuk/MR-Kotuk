@@ -3,7 +3,7 @@ Hi 👋 My name is MR_Kotuk
 
 I am a Junior Backend Developer
 -----------------------------
-### Java/Spring Boot/MySQL
+### Java/Spring Boot
 
 ## About me
 I am a Junior Backend Developer. Who also led and was a developer on the [Unsimple Pixel](https://unsimple-pixel.itch.io) game development team. Then I worked for a half of year at the game development studio [ACTEN](https://playhop.com/developer/57902), managed to finish and release one game and halfway through making a second one. Now I'm working as an Junior Backend Developer
@@ -22,7 +22,7 @@ During my time at ACTEN, I worked as a C# + Unity developer on the following gam
 - [Fight Field](https://github.com/MR-Kotuk/Fight-Field) (Dec 5, 2023 - Apr 1, 2024)
   An ambitious project that remained unfinished.
   
-Backend Development (Aug 1, 2024 - Present)
+Backend Development (Aug 1, 2024 - Jan 5, 2025)
 Transitioning to backend development, I’ve worked on the following projects:
 - [Web Calculator](https://github.com/MR-Kotuk/Web-Calculator) (Sep 22, 2024)
   Built in just 1 day using Java + Spring Boot.
@@ -36,11 +36,19 @@ Transitioning to backend development, I’ve worked on the following projects:
     Other Tools: BCrypt, lombok, dotenv, docker, swagger
   
     Collaborating closely with a frontend developer
+
+Commerce Projects (Jan 5, 2025 - Present)
+  - Working on freelance platforms
 </details>
 
-* 🔥  See my current project [PersoNet](https://github.com/MR-Kotuk/PersoNet)
+* 🔥  See my pet project [PersoNet](https://github.com/MR-Kotuk/PersoNet)
 * ✉️  You can contact me at [Mail](mailto:mrkotuk333@gmail.com), [Telegram](https://web.telegram.org/a/#1642872945), [Discord](https://discord.com/users/1080869727083184128) and [WhatsApp](https://wa.me/qr/RS63S2DDHXD4M1)
-* 🧠  I'm learning Backend. Also I know OOP, SOLID, [Design Patterns](https://github.com/MR-Kotuk/Design-Patterns) and [Algorithms](https://github.com/MR-Kotuk/Algorithms)
+* 🧠  I know **OOP, SOLID, [Design Patterns](https://github.com/MR-Kotuk/Design-Patterns) and [Algorithms](https://github.com/MR-Kotuk/Algorithms)**
+* 📚  Technologies and Tools I Have Experience With:
+    - Build Tools: **Maven, Gradle**
+    - Libraries: **Lombok, BCrypt, dotenv**
+    - API Documentation: **Swagger**
+    - Cloud and Integration Services: **Google Cloud, Gmail API, Google Drive API**
 * 🤝  I'm open to collaborating of my backend [skills](https://github.com/MR-Kotuk#skills)
 
 ## Skills
@@ -48,6 +56,7 @@ Transitioning to backend development, I’ve worked on the following projects:
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="55" height="55"/>
 <img src="https://i.imghippo.com/files/uQIRW1725033569.png" alt="Hibernate" width="55" height="55"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="55" height="55"/>
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
 </p>
 
@@ -63,6 +72,7 @@ Transitioning to backend development, I’ve worked on the following projects:
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="55" height="55"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="55" height="55"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55" height="55"/>
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="55" height="55"/>
 </p>
 
 ## Badges
