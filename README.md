@@ -6,8 +6,12 @@ I am a Junior Backend Developer
 ### Java/Spring Boot
 
 ## About me
-I am a Junior Backend Developer. Who also led and was a developer on the [Unsimple Pixel](https://unsimple-pixel.itch.io) game development team. Then I worked for a half of year at the game development studio [ACTEN](https://playhop.com/developer/57902), managed to finish and release one game and halfway through making a second one. Now I'm working as an Junior Backend Developer
-<details> <summary>📖 View Full Biography</summary>
+I'm a **passionate Backend Developer** who thrives in the world of code. I love the quiet focus of **late-night programming**, where **creativity** meets **problem-solving**. If I set my mind to something, I make sure it gets done - **no excuses!**
+
+**Collaboration is key for me.** I communicate **clearly and work well with teammates**, ensuring smooth workflows and **efficient problem-solving**. **I’m always eager to learn, adapt, and explore new technologies to improve my skills!**
+
+**Driven, reliable, and always up for a challenge - that's who I am!**
+<details> <summary>📖 View Portfolio</summary>
 
 [Unsimple Pixel](https://unsimple-pixel.itch.io) (Mar 11, 2023 - Sep 3, 2023)
 As the C# + Unity developer and team lead, I contributed to the following projects:
