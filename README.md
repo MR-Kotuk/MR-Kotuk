@@ -73,10 +73,11 @@ Commerce Projects (Jan 5, 2025 - Present)
 </p>
 
 <p align="middle">
+<img src="https://i.ibb.co/YTwKnV9W/image-2025-02-18-221301779-removebg-preview.png" alt="GitLab" width="55" height="55">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="55" height="55"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="55" height="55"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55" height="55"/>
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="55" height="55"/>
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" height="50"/>
 </p>
 
 ## Badges
