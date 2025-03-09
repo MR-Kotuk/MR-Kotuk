@@ -31,20 +31,11 @@ Transitioning to backend development, I’ve worked on the following projects:
 - [Web Calculator](https://github.com/MR-Kotuk/Web-Calculator) (Sep 22, 2024)
   Built in just 1 day using Java + Spring Boot.
 - [PersoNet](https://github.com/MR-Kotuk/PersoNet) (Oct 13, 2024 - Ongoing)
-  A long-term project involving:
-  
-    Backend: Java, Spring Boot
-  
-    Database: MySQL
-  
-    Other Tools: BCrypt, lombok, dotenv, docker, swagger
-  
-    Collaborating closely with a frontend developer
 
-Commerce Projects (Jan 5, 2025 - Present)
-  - Working on freelance platforms
+[Labb Consulting](https://www.labb-consulting.com/) (Jan 5, 2025 - Present)
 </details>
 
+* 💻 I work at [Labb Consulting](https://www.labb-consulting.com/)
 * 🔥  See my pet project [PersoNet](https://github.com/MR-Kotuk/PersoNet)
 * ✉️  You can contact me at [Mail](mailto:mrkotuk333@gmail.com), [Telegram](https://web.telegram.org/a/#1642872945), [Discord](https://discord.com/users/1080869727083184128) and [WhatsApp](https://wa.me/qr/RS63S2DDHXD4M1)
 * 🧠  I know **OOP, SOLID, [Design Patterns](https://github.com/MR-Kotuk/Design-Patterns) and [Algorithms](https://github.com/MR-Kotuk/Algorithms)**
