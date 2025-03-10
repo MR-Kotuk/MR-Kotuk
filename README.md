@@ -3,7 +3,7 @@ Hi 👋 My name is MR_Kotuk
 
 I am a Junior Backend Developer
 -----------------------------
-### Java/Spring Boot
+### Java | Spring Boot
 
 ## About me
 I'm a **passionate Backend Developer** who thrives in the world of code. I love the quiet focus of **late-night programming**, where **creativity** meets **problem-solving**. If I set my mind to something, I make sure it gets done - **no excuses!**
@@ -11,39 +11,22 @@ I'm a **passionate Backend Developer** who thrives in the world of code. I love 
 **Collaboration is key for me.** I communicate **clearly and work well with teammates**, ensuring smooth workflows and **efficient problem-solving**. **I’m always eager to learn, adapt, and explore new technologies to improve my skills!**
 
 **Driven, reliable, and always up for a challenge - that's who I am!**
-<details> <summary>📖 View Portfolio</summary>
-
-[Unsimple Pixel](https://unsimple-pixel.itch.io) (Mar 11, 2023 - Sep 3, 2023)
-As the C# + Unity developer and team lead, I contributed to the following projects:
-- [JumpBall](https://github.com/MR-Kotuk/JumpBall) (Mar 11, 2023)
-- [Smart-City](https://github.com/MR-Kotuk/Smart-City) (Jul 21, 2023)
-- [Switch-Gravity-Demo](https://github.com/MR-Kotuk/Switch-Gravity-Demo) (Sep 3, 2023)
-
-Game Studio [ACTEN](https://playhop.com/developer/57902) (Aug 24, 2023 - Apr 1, 2024)
-During my time at ACTEN, I worked as a C# + Unity developer on the following games:
-- [Cafe Simulator](https://github.com/MR-Kotuk/Cafe-Simulator) (Sep 3, 2023 - Oct 26, 2023)
-  A fully released game created within two months.
-- [Fight Field](https://github.com/MR-Kotuk/Fight-Field) (Dec 5, 2023 - Apr 1, 2024)
-  An ambitious project that remained unfinished.
-  
-Backend Development (Aug 1, 2024 - Jan 5, 2025)
-Transitioning to backend development, I’ve worked on the following projects:
-- [Web Calculator](https://github.com/MR-Kotuk/Web-Calculator) (Sep 22, 2024)
-  Built in just 1 day using Java + Spring Boot.
-- [PersoNet](https://github.com/MR-Kotuk/PersoNet) (Oct 13, 2024 - Ongoing)
-
-[Labb Consulting](https://www.labb-consulting.com/) (Jan 5, 2025 - Present)
-</details>
 
 * 💻 I work at [Labb Consulting](https://www.labb-consulting.com/)
 * 🔥  See my pet project [PersoNet](https://github.com/MR-Kotuk/PersoNet)
 * ✉️  You can contact me at [Mail](mailto:mrkotuk333@gmail.com), [Telegram](https://web.telegram.org/a/#1642872945), [Discord](https://discord.com/users/1080869727083184128) and [WhatsApp](https://wa.me/qr/RS63S2DDHXD4M1)
 * 🧠  I know **OOP, SOLID, [Design Patterns](https://github.com/MR-Kotuk/Design-Patterns) and [Algorithms](https://github.com/MR-Kotuk/Algorithms)**
-* 📚  Technologies and Tools I Have Experience With:
-    - Build Tools: **Maven, Gradle**
-    - Libraries: **Lombok, BCrypt, dotenv**
-    - API Documentation: **Swagger**
-    - Cloud and Integration Services: **Google Cloud, Gmail API, Google Drive API**
+* <details>
+  <summary>📚 Technologies and Tools I Have Experience With (click to view)</summary>  
+  <ul>
+    <li><strong>Build Tools:</strong> Maven, Gradle</li>
+    <li><strong>Libraries:</strong> Lombok, BCrypt, dotenv</li>
+    <li><strong>API Documentation:</strong> Swagger</li>
+    <li><strong>Cloud and Integration Services:</strong> Google Cloud, Gmail API, Google Drive API</li>
+    <li><strong>And much more!</strong></li>
+  </ul>
+</details>
+
 * 🤝  I'm open to collaborating of my backend [skills](https://github.com/MR-Kotuk#skills)
 
 ## Skills
