@@ -23,6 +23,7 @@ I'm a **passionate Backend Developer** who thrives in the world of code. I love 
     <li><strong>Libraries:</strong> Lombok, BCrypt, dotenv</li>
     <li><strong>API Documentation:</strong> Swagger</li>
     <li><strong>Cloud and Integration Services:</strong> Google Cloud, Gmail API, Google Drive API</li>
+    <li><strong>OpenAI:</strong> ChatGPT API</li>
     <li><strong>And much more!</strong></li>
   </ul>
 </details>
@@ -51,7 +52,8 @@ I'm a **passionate Backend Developer** who thrives in the world of code. I love 
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="55" height="55"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="55" height="55"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55" height="55"/>
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="55" height="55"/>
+<a href="https://ibb.co/3ycDL8Db"><img src="https://i.ibb.co/3ycDL8Db/Untitled112-20250321195213.png" alt="ChatGPT API" width="55" height="55"></a>
 </p>
 
 ## Badges
