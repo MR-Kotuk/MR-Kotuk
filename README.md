@@ -1,7 +1,7 @@
 Hi 👋 My name is MR_Kotuk
 ==========================
 
-I am a Junior Backend Developer
+I am a Backend Developer
 -----------------------------
 ### Java | Spring Boot
 
@@ -33,18 +33,17 @@ I'm a **passionate Backend Developer** who thrives in the world of code. I love 
 ## Skills
 <p align="middle">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="55" height="55"/>
-<img src="https://i.imghippo.com/files/uQIRW1725033569.png" alt="Hibernate" width="55" height="55"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="55" height="55"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="55" height="55"/>
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
 </p>
 
 <p align="middle">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="55" height="55"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="55" height="55"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Engines/unity3d-icon.svg" alt="Unity" width="55" height="55"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="55" height="55"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Engines/unity3d-icon.svg" alt="Unity" width="55" height="55"/>
 </p>
 
 <p align="middle">
@@ -60,9 +59,3 @@ I'm a **passionate Backend Developer** who thrives in the world of code. I love 
 
 ### LeetCode
 ![Leetcode Stats](https://leetcard.jacoblin.cool/mr_kotukkk?ext=heatmap)
-
-### Github
-<a href="http://www.github.com/MR-Kotuk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-Kotuk&theme=tokyonight&hide_border=true" /></a>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-kotuk&hide=shaderlab,hlsl,glsl,c%2B%2B,objective-c%2B%2B,roff,gap,javascript&langs_count=4&theme=tokyonight&layout=compact&hide_progress=true&hide_border=true)
-<br/>
