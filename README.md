@@ -24,6 +24,7 @@ I'm a **passionate Backend Developer** who thrives in the world of code. I love 
     <li><strong>API Documentation:</strong> Swagger</li>
     <li><strong>Cloud and Integration Services:</strong> Google Cloud, Gmail API, Google Drive API</li>
     <li><strong>OpenAI:</strong> ChatGPT API</li>
+    <li><strong>Telegram:</strong> Telegram API</li>
     <li><strong>And much more!</strong></li>
   </ul>
 </details>
@@ -54,6 +55,7 @@ I'm a **passionate Backend Developer** who thrives in the world of code. I love 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" height="50"/>
 <img src="https://i.ibb.co/3ycDL8Db/Untitled112-20250321195213.png" alt="ChatGPT API" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png" alt="Telegram API" width="50" height="50">
 </p>
 
 ## Badges
