@@ -1,12 +1,12 @@
 Hi 👋 My name is MR_Kotuk
 ==========================
 
-I am a Backend Developer
+I am a Fullstack Developer
 -----------------------------
-### Java | Spring Boot
+### Spring Boot & Vue.js
 
 ## About me
-I'm a **passionate Backend Developer** who thrives in the world of code. I love the quiet focus of **late-night programming**, where **creativity** meets **problem-solving**. If I set my mind to something, I make sure it gets done - **no excuses!**
+I'm a **passionate Fullstack Developer** who thrives in the world of code. I love the quiet focus of **late-night programming**, where **creativity** meets **problem-solving**. If I set my mind to something, I make sure it gets done - **no excuses!**
 
 **Collaboration is key for me.** I communicate **clearly and work well with teammates**, ensuring smooth workflows and **efficient problem-solving**. **I’m always eager to learn, adapt, and explore new technologies to improve my skills!**
 
@@ -29,7 +29,7 @@ I'm a **passionate Backend Developer** who thrives in the world of code. I love 
   </ul>
 </details>
 
-* 🤝  I'm open to collaborating of my backend [skills](https://github.com/MR-Kotuk#skills)
+* 🤝  I'm open to collaborating of my [skills](https://github.com/MR-Kotuk#skills)
 
 ## Skills
 <p align="middle">
@@ -44,15 +44,14 @@ I'm a **passionate Backend Developer** who thrives in the world of code. I love 
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="JS" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="55" height="55"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="CSS" width="55" height="55"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Engines/unity3d-icon.svg" alt="Unity" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="Vue.js" width="51" height="51"/>
 </p>
 
 <p align="middle">
-<img src="https://i.ibb.co/YTwKnV9W/image-2025-02-18-221301779-removebg-preview.png" alt="GitLab" width="50" height="50">
+<img src="https://cdn.worldvectorlogo.com/logos/gitlab-3.svg" alt="GitLab" width="50" height="50">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="55" height="55"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
+<img src="https://i.ibb.co/YFjbLm8s/pngaaa-com-8577493.png" alt="docker" width="50" height="50"/>
 </p>
 
 <p align="middle">
