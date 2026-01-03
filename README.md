@@ -3,7 +3,7 @@ Hi 👋 My name is MR_Kotuk
 
 I am a Fullstack Developer
 -----------------------------
-### Spring Boot & Vue.js
+### Vue.js & Spring Boot
 
 ## About me
 I'm a **passionate Fullstack Developer** who thrives in the world of code. I love the quiet focus of **late-night programming**, where **creativity** meets **problem-solving**. If I set my mind to something, I make sure it gets done - **no excuses!**
