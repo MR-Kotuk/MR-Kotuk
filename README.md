@@ -6,7 +6,7 @@ I am a Fullstack Developer
 ### Vue.js & Spring Boot
 
 ## About me
-I'm a **passionate Fullstack Developer** who thrives in the world of code. I love the quiet focus of **late-night programming**, where **creativity** meets **problem-solving**. If I set my mind to something, I make sure it gets done - **no excuses!**
+I’m a **passionate Fullstack Developer** who thrives in the world of code, with a strong pull toward the **backend side of development**. I especially enjoy working on **complex architectures, large-scale systems, security challenges, and permission models** - the kind of problems that require deep thinking and solid design. I love the quiet focus of **late-night programming**, where **creativity** meets **problem-solving**. If I set my mind to something, I make sure it gets done - **no excuses!**
 
 **Collaboration is key for me.** I communicate **clearly and work well with teammates**, ensuring smooth workflows and **efficient problem-solving**. **I’m always eager to learn, adapt, and explore new technologies to improve my skills!**
 
@@ -37,8 +37,11 @@ I'm a **passionate Fullstack Developer** who thrives in the world of code. I lov
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="55"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-redis-icon-svg-download-png-1175103.png?f=webp" alt="redis" width="50" height="50"/>
 <img src="https://hermes.dio.me/skills/0bedd1a3-09b4-4bb0-b918-9e25e474e26f.png" alt="spring" width="55" height="55"/>
 </p>
+
+
 
 <p align="middle">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="JS" width="45" height="45"/>
