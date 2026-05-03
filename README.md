@@ -36,7 +36,7 @@ I'm a **passionate Fullstack Developer** who thrives in the world of code, with 
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,postgresql,mongodb,redis,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,postgresql,mongodb,redis,rabbitmq,spring)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,pinia,nuxt)](https://skillicons.dev)
 
