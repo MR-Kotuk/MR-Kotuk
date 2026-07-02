@@ -17,6 +17,7 @@ I'm a **passionate Fullstack Developer** who thrives in the world of code, with 
 * ✉️  You can contact me at [Mail](mailto:mrkotuk333@gmail.com), [Telegram](https://web.telegram.org/a/#1642872945), [Discord](https://discord.com/users/1080869727083184128) and [WhatsApp](https://wa.me/qr/RS63S2DDHXD4M1)
 * 🧠  I know **OOP, SOLID, [Design Patterns](https://github.com/MR-Kotuk/Design-Patterns), [Data Structures](https://github.com/MR-Kotuk/Data-Structures) and  [Algorithms](https://github.com/MR-Kotuk/Algorithms)**
 * 🏆 Certified in [Pinia](./pinia-certificate.pdf)
+* 🇬🇧 Certified English Proficiency **-** **C1 Advanced, CEFR** • **EF SET 67/100** • [View Certificate](https://cert.efset.org/en/smZF47)
 * <details>
   <summary>📚 Technologies and Tools I Have Experience With (click to view)</summary>  
   <ul>
